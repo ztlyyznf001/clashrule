@@ -950,7 +950,7 @@ rule-providers:
     type: http
     behavior: domain
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/HBOAsia/HBOAsia.list"
-    path: ./ruleset/reject.yaml
+    path: ./ruleset/HBOAsia.yaml
     interval: 86400
 
 rules:
